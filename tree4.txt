@@ -1,0 +1,7 @@
+9 : 12 10
+12 : 15 13
+15 : cat dog
+13 : rat mouse
+10 : 11 14
+11 : shmel bee
+14 : monkey human

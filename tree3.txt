@@ -4,4 +4,4 @@
 10 : mouse rat
 14 : 11 12
 11 : monkey human
-12 : bee shmel
+12 : bee fly

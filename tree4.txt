@@ -3,5 +3,5 @@
 15 : cat dog
 13 : rat mouse
 10 : 11 14
-11 : shmel bee
+11 : fly bee
 14 : monkey human

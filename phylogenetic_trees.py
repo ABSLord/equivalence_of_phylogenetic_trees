@@ -47,7 +47,3 @@ def marked_units(dct):
             res.append(dct[key][1])
     res.sort()
     return res
-
-
-def lol():
-    return "лул"
